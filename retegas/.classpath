@@ -10,122 +10,122 @@
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="C:/Users/phra/Desktop/eclipse ee/struts/struts-2.3.16.3/lib/commons-chain-1.2.jar">
+	<classpathentry kind="lib" path="/home/phra/struts2/struts-2.3.16.3-lib/lib/commons-beanutils-1.8.0.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/phra/Desktop/eclipse ee/struts/struts-2.3.16.3/lib/commons-collections-3.1.jar">
+	<classpathentry kind="lib" path="/home/phra/struts2/struts-2.3.16.3-lib/lib/commons-chain-1.2.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/phra/Desktop/eclipse ee/struts/struts-2.3.16.3/lib/commons-fileupload-1.3.1.jar">
+	<classpathentry kind="lib" path="/home/phra/struts2/struts-2.3.16.3-lib/lib/commons-collections-3.1.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/phra/Desktop/eclipse ee/struts/struts-2.3.16.3/lib/commons-io-2.2.jar">
+	<classpathentry kind="lib" path="/home/phra/struts2/struts-2.3.16.3-lib/lib/commons-digester-2.0.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/phra/Desktop/eclipse ee/struts/struts-2.3.16.3/lib/commons-lang-2.4.jar">
+	<classpathentry kind="lib" path="/home/phra/struts2/struts-2.3.16.3-lib/lib/commons-fileupload-1.3.1.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/phra/Desktop/eclipse ee/struts/struts-2.3.16.3/lib/commons-lang3-3.1.jar">
+	<classpathentry kind="lib" path="/home/phra/struts2/struts-2.3.16.3-lib/lib/commons-io-2.2.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/phra/Desktop/eclipse ee/struts/struts-2.3.16.3/lib/commons-logging-1.1.3.jar">
+	<classpathentry kind="lib" path="/home/phra/struts2/struts-2.3.16.3-lib/lib/commons-lang3-3.1.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/phra/Desktop/eclipse ee/struts/struts-2.3.16.3/lib/commons-logging-api-1.1.jar">
+	<classpathentry kind="lib" path="/home/phra/struts2/struts-2.3.16.3-lib/lib/commons-lang-2.4.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/phra/Desktop/eclipse ee/struts/struts-2.3.16.3/lib/commons-validator-1.3.1.jar">
+	<classpathentry kind="lib" path="/home/phra/struts2/struts-2.3.16.3-lib/lib/commons-logging-1.1.3.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/phra/Desktop/eclipse ee/struts/struts-2.3.16.3/lib/freemarker-2.3.19.jar">
+	<classpathentry kind="lib" path="/home/phra/struts2/struts-2.3.16.3-lib/lib/commons-logging-api-1.1.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/phra/Desktop/eclipse ee/struts/struts-2.3.16.3/lib/javassist-3.11.0.GA.jar">
+	<classpathentry kind="lib" path="/home/phra/struts2/struts-2.3.16.3-lib/lib/commons-validator-1.3.1.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/phra/Desktop/eclipse ee/struts/struts-2.3.16.3/lib/struts2-core-2.3.16.3.jar">
+	<classpathentry kind="lib" path="/home/phra/struts2/struts-2.3.16.3-lib/lib/freemarker-2.3.19.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/phra/Desktop/eclipse ee/struts/struts-2.3.16.3/lib/xwork-core-2.3.16.3.jar" sourcepath="C:/Users/phra/Desktop/eclipse ee/struts/struts-2.3.16.3/lib/xwork-core-2.3.16.3.jar">
+	<classpathentry kind="lib" path="/home/phra/struts2/struts-2.3.16.3-lib/lib/javassist-3.11.0.GA.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/phra/Desktop/eclipse ee/tiles/tiles-3.0.4/tiles-api-3.0.4.jar">
+	<classpathentry kind="lib" path="/home/phra/struts2/struts-2.3.16.3-lib/lib/struts2-core-2.3.16.3.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/phra/Desktop/eclipse ee/tiles/tiles-3.0.4/tiles-compat-3.0.4.jar">
+	<classpathentry kind="lib" path="/home/phra/struts2/struts-2.3.16.3-lib/lib/xwork-core-2.3.16.3.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/phra/Desktop/eclipse ee/tiles/tiles-3.0.4/tiles-core-3.0.4.jar">
+	<classpathentry kind="lib" path="/home/phra/struts2/tiles-3.0.4/lib/jcl-over-slf4j-1.7.6.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/phra/Desktop/eclipse ee/tiles/tiles-3.0.4/tiles-jsp-3.0.4.jar">
+	<classpathentry kind="lib" path="/home/phra/struts2/tiles-3.0.4/lib/slf4j-api-1.7.6.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/phra/Desktop/eclipse ee/tiles/tiles-3.0.4/tiles-ognl-3.0.4.jar">
+	<classpathentry kind="lib" path="/home/phra/struts2/struts-2.3.16.3-lib/lib/ognl-3.0.6.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/phra/Desktop/eclipse ee/tiles/tiles-3.0.4/tiles-servlet-3.0.4.jar">
+	<classpathentry kind="lib" path="/home/phra/struts2/struts-2.3.16.3-lib/lib/struts2-tiles3-plugin-2.3.16.3.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/phra/Desktop/eclipse ee/tiles/tiles-3.0.4/tiles-template-3.0.4.jar">
+	<classpathentry kind="lib" path="/home/phra/struts2/tiles-3.0.4/tiles-api-3.0.4.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/phra/Desktop/eclipse ee/tiles/tiles-3.0.4/lib/commons-beanutils-1.8.0.jar">
+	<classpathentry kind="lib" path="/home/phra/struts2/tiles-3.0.4/tiles-core-3.0.4.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/phra/Desktop/eclipse ee/tiles/tiles-3.0.4/lib/commons-digester-2.0.jar">
+	<classpathentry kind="lib" path="/home/phra/struts2/tiles-3.0.4/tiles-jsp-3.0.4.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/phra/Desktop/eclipse ee/tiles/tiles-3.0.4/lib/jcl-over-slf4j-1.7.6.jar">
+	<classpathentry kind="lib" path="/home/phra/struts2/tiles-3.0.4/tiles-servlet-3.0.4.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/phra/Desktop/eclipse ee/tiles/tiles-3.0.4/lib/slf4j-api-1.7.6.jar">
+	<classpathentry kind="lib" path="/home/phra/struts2/tiles-3.0.4/tiles-autotag-core-runtime-1.1.0.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
