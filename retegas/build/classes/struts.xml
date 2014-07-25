@@ -13,15 +13,15 @@
     <package name="default" extends="struts-default" namespace="/">
         <action name="login"
             class="com.phtest.action.LoginAction">
-            <result name="success">/Welcome.jsp</result>
-            <result name="error">/Login.jsp</result>
+            <result name="success">/welcome.jsp</result>
+            <result name="error">/login.jsp</result>
         </action>
     </package>
 
     <package name="retegas" extends="tiles-default" namespace="/">
         <action name="home"
             class="com.phtest.action.Home">
-            <result name="success">/Home.jsp</result>
+            <result name="success" type="tiles">retegas.homepage</result>
         </action>
     </package>
 </struts>
